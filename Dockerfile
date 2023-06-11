@@ -20,4 +20,4 @@ COPY . .
 
 # Atur command yang akan dijalankan saat kontainer dijalankan
 # Gantilah perintah ini dengan perintah yang sesuai untuk menjalankan aplikasi Anda
-CMD [ "npm", "start" ]
+CMD [ "node", "server.js" ]

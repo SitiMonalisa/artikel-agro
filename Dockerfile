@@ -1,6 +1,6 @@
 # Menggunakan base image yang sesuai dengan runtime Anda
 # Misalnya, jika Anda menggunakan Node.js, gunakan node:<versi> sebagai base image
-FROM node:latest
+FROM node:16.17.0
 
 # Set working directory di dalam kontainer
 WORKDIR /app

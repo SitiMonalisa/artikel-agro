@@ -1,0 +1,15 @@
+{
+  "name": "artikel-agro",
+  "version": "1.0.0",
+  "main": "handler.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

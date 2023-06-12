@@ -5,5 +5,25 @@
         "penulis":"Star Farm Writer",
         "gambar":"",
         "deskripsi":"Ada banyak jenis inovasi pertanian yang dapat dilakukan oleh masyarakat agar nantinya dunia pertanian semakin berkembang dengan baik. Beberapa inovasi yang sudah terwujud antara lain adalah sebagai berikut ini : 1. Sistem irigasi otomatis untuk lahan kelapa sawit 2. Drone sawah 3. Aplikasi untuk memantau tanaman 4. Menanam anggrek dengan kultur jaringan"
-    }]
+    }, {
+        "id":"2",
+        "judul":"Petani Muda Beromzet Rp 500 Juta per Bulan",
+        "penulis":"Budi Raharjo",
+        "gambar":"",
+        "deskripsi":"Alumni Institut Pertanian Bogoti (IPB) tersebut berusaha melanjutkan usaha ayahnya dengan skala yang lebih besar. Sandi kini menggerakkan bisnis 373 petani, mengelola total 120 hektare lahan sayuran yang sebagiannya berafiliasi dengan Badan Usaha Milik Negara (BUMN), serta membawahi 50 karyawan. Dari bisnisnya, Sandi membuktikan menjadi petani milenial dapat menghasilkan omzet sekitar Rp 500 juta per bulan. Sandi fokus menjual produk pertaniannya kepada hotel, restoran, dan katering (horeka). Dalam kurun waktu empat tahun, komoditas sayur-mayur di bawah binaannya berhasil memasok 25 hotel di Jawa Barat dan beberapa retail modern di Jakarta."
+    }, 
+       {
+        "id":"3",
+        "judul":"Petani pengukur curah hujan: Menjadi peneliti mandiri untuk menghadapi perubahan iklim",
+        "penulis":"Video produksi: Anindita Pradana dan Muhammad Irham",
+        "gambar":"",
+        "deskripsi":"Sejak 2009, sekelompok petani di Indramayu, Jawa Barat, rutin mengukur dan mencatat curah hujan setiap pagi untuk menentukan strategi tanam di tengah perubahan cuaca yang makin tidak menentu. Curah hujan adalah kunci dalam pertanian, khususnya tanaman padi, yang sangat bergantung pada keberlimpahan air.Perubahan iklim dan cuaca yang semakin tidak menentu membuat banyak petani gagal panen akibat salah menentukan strategi tanam di awal musim. Kalender musim yang digunakan dari generasi ke generasi kini semakin tidak akurat dan tidak lagi relevan digunakan sebagai panduan. Menyikapi hal tersebut, sekelompok petani di Indramayu mempelajari ilmu agrometeorologi dengan harapan mampu mengurangi risiko gagal panen"
+    }, 
+       {
+        "id":"4",
+        "judul":"Perlu Tahu soal El Nina dan El Nino agar Tak Gagal Panen",
+        "penulis":"SUGIH MULYONO",
+        "gambar":"",
+        "deskripsi":"TELAH meneliti sejak 1990, Yunita T. Winarto tahu bahwa masih banyak petani yang hanya mengandalkan pancaindra untuk menentukan waktu tanam. Termasuk tidak mengetahui apa yang terjadi di dalam tanah yang dikelola. Tapi, seiring berjalannya waktu, itu tidak akan cukup. ”Apalagi perubahan iklim akan terus terjadi. Kalau petani tidak siap, akhirnya akan banyak yang gagal panen,’’ tutur guru besar di Universitas Indonesia itu kepada Jawa Pos pada pertengahan Maret lalu. Penelitian oleh profesor bernama lengkap Maria Atonia Yunita Triwardani Winarto tersebut awalnya dilakukan untuk memenuhi tugasnya meraih gelar doktor S-3 di Australia National University, Canberra. Saat itu, dia melakukan penelitian mengenai sekolah lapangan pengendalian hama terpadu."
+       }]
 }
